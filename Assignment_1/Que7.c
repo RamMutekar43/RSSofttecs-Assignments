@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    // Variable declaration and user inputs
     int a,b;
     printf("Enter value of a: ");
     scanf("%d", &a);

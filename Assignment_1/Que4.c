@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    // Variable declaration and user inputs
     int u, a, t;
     printf("Enter Initial Velocity: ");
     scanf("%d",&u);
@@ -10,9 +11,11 @@ int main(){
     printf("Enter Time: ");
     scanf("%d",&t);
 
+    // calculate Final velocity and Distance
     int v = u+a*t;
     int s = u+2*a*t;
 
+    // print output
     printf("Final Velocity is: %d\n",v);
     printf("Distance is: %d",s);
     return 0;

@@ -12,8 +12,7 @@ int main(){
     float surfaceArea = (2*3.14*r*h) + (2*3.14*r*r); // calculate surface area of the cylinder
 
     // Print Volume and Surface Area of Cylinder
-    printf("The volume of the Cylinder is: %f", volume);
-    printf("\n");
+    printf("The volume of the Cylinder is: %f\n", volume);
     printf("The surface area of the Cylinder is: %f", surfaceArea);
     return 0;
 }
