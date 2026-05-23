@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
+int main(){
     int u, a, t;
     printf("Enter Initial Velocity: ");
     scanf("%d",&u);

@@ -1,0 +1,32 @@
+#include<stdio.h>
+int main(){
+    int a,b;
+    printf("Enter value of a: ");
+    scanf("%d", &a);
+    printf("Enter value of b: ");
+    scanf("%d", &b);
+
+    // // Using temp  variable
+    // int temp=a;
+    // a=b;
+    // b=temp;
+    // printf("- Using temporary variable -\n");
+    // printf("Interchanges numbers are\n a = %d \n b = %d", a,b);
+
+    // // Using + and - operator
+    // a = a+b;  
+    // b = a-b;  
+    // a = a-b;  
+    // printf("- Using + and - operator -\n");
+    // printf("Interchanges numbers are\n a = %d \n b = %d", a,b);
+
+    // Using / and * operator
+    // a = a*b;  
+    // b = a/b;  
+    // a = a/b;  
+    // printf("- Using / and * operator -\n");
+    // printf("Interchanges numbers are\n a = %d \n b = %d", a,b);
+
+
+    return 0;
+}

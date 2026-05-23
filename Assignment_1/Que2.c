@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
+int main(){
     // Variable declaration and user input for radius and height of cylinder
     float r,h;
 
