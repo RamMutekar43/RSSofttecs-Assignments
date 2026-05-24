@@ -1,3 +1,6 @@
+// Accept 3 dimentions length, bredth and height of cuboid and
+// print surface area and volume
+
 #include<stdio.h>
 int main(){
     // Variable declaration and user inputs

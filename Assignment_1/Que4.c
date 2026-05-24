@@ -1,3 +1,6 @@
+// Accept initial velocity, acceleration and time. 
+// Print the final velocity and the distance travelled.
+
 #include<stdio.h>
 int main(){
     // Variable declaration and user inputs

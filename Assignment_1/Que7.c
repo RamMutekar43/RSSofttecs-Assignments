@@ -1,3 +1,7 @@
+// Accept two integers from the user and interchange them.
+// Display the interchanged numbers. using temparory variable,
+// and using + and - operator and using * and / operator
+
 #include<stdio.h>
 int main(){
     // Variable declaration and user inputs
