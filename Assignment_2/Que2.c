@@ -9,7 +9,7 @@ int main(){
     }else if(num<0){
         printf("Negative Number.");
     }else{
-        printf("Please enter valid number.")
+        printf("Please enter valid number.");
     }
 
     return 0;
