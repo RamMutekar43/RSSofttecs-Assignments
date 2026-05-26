@@ -10,12 +10,23 @@ int main(){
     printf("Enter the 3rd number: ");
     scanf("%d",&num3);
 
-    if(num1>num2 && num1>num3){
-        printf("%d is maximum.",num1);
-    }else if(num2>num1 && num2>num3){
-        printf("%d is maximum.",num2);
+
+    // // Maximum number
+    // if(num1>num2 && num1>num3){
+    //     printf("%d is maximum.",num1);
+    // }else if(num2>num1 && num2>num3){
+    //     printf("%d is maximum.",num2);
+    // }else{
+    //     printf("%d is maximum.",num3);
+    // }
+
+    // Minimum number
+    if(num1<num2 && num1<num3){
+        printf("%d is minimum.",num1);
+    }else if(num2<num1 && num2<num3){
+        printf("%d is minimum.",num2);
     }else{
-        printf("%d is maximum.",num3);
+        printf("%d is minimum.",num3);
     }
 
     return 0;
