@@ -1,4 +1,4 @@
-// Accept initial velocity, acceleration and time. 
+//  Que - Accept initial velocity, acceleration and time. 
 // Print the final velocity and the distance travelled.
 
 #include<stdio.h>

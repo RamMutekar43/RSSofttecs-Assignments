@@ -1,3 +1,5 @@
+// Que -  Accept a character from the user and display its ASCII value.
+
 #include<stdio.h>
 int main(){
     // Variable declaration and user input

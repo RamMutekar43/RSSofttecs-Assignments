@@ -1,4 +1,4 @@
-// Accept two numbers and print the arithmetic mean and harmonic mean of the two numbers
+// Que -  Accept two numbers and print the arithmetic mean and harmonic mean of the two numbers
 
 #include<stdio.h>
 int main(){

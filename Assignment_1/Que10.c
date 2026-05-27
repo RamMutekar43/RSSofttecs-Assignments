@@ -1,3 +1,5 @@
+// Que -  Accept the x and y coordinates of two points and compute the distance between the two points.
+
 #include<stdio.h>
 #include<math.h>
 int main(){

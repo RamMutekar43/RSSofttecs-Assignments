@@ -1,4 +1,4 @@
-// Accept temperature in fahrenheit and print it in Celcius and Kelvin
+// Que - Accept temperature in fahrenheit and print it in Celcius and Kelvin
 
 #include<stdio.h>
 int main(){

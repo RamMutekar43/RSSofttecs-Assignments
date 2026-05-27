@@ -1,3 +1,5 @@
+// Que -  Accept a character from the keyboard and display its previous and next character in order.
+
 #include<stdio.h>
 int main(){
     // Variable declaration and user input

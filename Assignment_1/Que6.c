@@ -1,4 +1,4 @@
-// Accept 3 dimentions length, bredth and height of cuboid and
+// Que -  Accept 3 dimentions length, bredth and height of cuboid and
 // print surface area and volume
 
 #include<stdio.h>
