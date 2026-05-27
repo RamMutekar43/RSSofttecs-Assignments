@@ -1,3 +1,5 @@
+// Que - Write a program to check whether given character is a digit or a character in lowercase or uppercase alphabet.
+
 #include<stdio.h>
 int main(){
     char ch;

@@ -1,3 +1,5 @@
+// Que - Write a program to check whether given number is positive or negative?
+
 #include<stdio.h>
 int main(){
     int num;

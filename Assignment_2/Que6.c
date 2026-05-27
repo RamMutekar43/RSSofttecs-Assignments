@@ -1,3 +1,6 @@
+// Que - Write a program to check whether given number is divisible by 5 or 7?
+// (with || operator and with else if)
+
 #include<stdio.h>
 int main(){
     int num;

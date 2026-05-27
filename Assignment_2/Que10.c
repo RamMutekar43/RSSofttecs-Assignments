@@ -1,3 +1,5 @@
+// Que - Accept three sides of triangle as input, 
+// and print whether the triangle is valid or not.
 
 #include<stdio.h>
 int main(){

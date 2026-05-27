@@ -1,3 +1,5 @@
+// Que - Write a program to accept marks for three subjects and find the total marks secured, average and also display the class obtained.
+
 #include<stdio.h>
 int main(){
     int sub1,sub2,sub3;

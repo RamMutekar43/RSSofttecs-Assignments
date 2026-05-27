@@ -1,3 +1,9 @@
+// Que - Write a program to accept quantity and rate for three items, compute the total sales amount. 
+// Also compute and print the discount as follows:
+// amount > __ → 20% discount
+// amount between __ to __ → 15% discount
+// amount between __ to __ → 8% discount
+
 #include<stdio.h>
 int main(){
     int q1,q2,q3,r1,r2,r3;

@@ -1,3 +1,5 @@
+// Que - Accept the x and y coordinate of a point and find the quadrant in which the point lies.
+
 #include<stdio.h>
 int main(){
     int x,y;

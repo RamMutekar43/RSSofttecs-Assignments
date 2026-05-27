@@ -1,3 +1,6 @@
+// Que - Write a program to accept three numbers and 
+// check whether the first is between the other two numbers.
+
 #include<stdio.h>
 int main(){
     int num1,num2,num3;

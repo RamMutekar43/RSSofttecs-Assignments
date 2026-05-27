@@ -1,3 +1,5 @@
+// Que - Write a program to compare two numbers? (==, >, <)
+
 #include<stdio.h>
 int main(){
     int num1,num2;

@@ -1,5 +1,10 @@
-#include<stdio.h>
+// Que - A library charges a fine for every book returned late. 
+// Accept the number of days the member is late, compute and print the fine as follows:
+// less than five days → Rs __ fine
+// 6 to 10 days → Rs __ fine
+// above 10 days → Rs __ fine
 
+#include<stdio.h>
 int main() {
     int days, nBooks, fine;
 

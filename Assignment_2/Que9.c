@@ -1,3 +1,6 @@
+// Que - Accept any year as input through the keyboard. 
+// Write a program to check whether the year is a leap year or not.
+
 #include<stdio.h>
 int main(){
     int yr;

@@ -1,5 +1,6 @@
-#include<stdio.h>
+// Que - Accept the time as hour, minute and seconds and check whether the time is valid.
 
+#include<stdio.h>
 int main() {
     int hr, min, sec;
 
