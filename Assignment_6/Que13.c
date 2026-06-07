@@ -5,14 +5,19 @@ int main(){
     scanf("%d",&n);
 
     int arr[n];
-
     printf("Enter array elements: ");
     for(int i=0;i<n;i++){
         scanf("%d",&arr[i]);
     }
+
+    int arr1[n];
     
     for(int i=0;i<n;i++){
-        printf("%d ",arr[i]);
+        arr1[i]=arr[i];
+    }
+
+    for(int i=0;i<n;i++){
+        printf("%d ",arr1[i]);
     }
     return 0;
 }
